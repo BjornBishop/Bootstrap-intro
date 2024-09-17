@@ -1,8 +1,8 @@
 body {
-
+    font-family: 'Roboto', sans-serif
 }
 
 .navbar-brand {
     padding-left: 15px;
-    font-family: Cinzel;
+    font-family: 'Cinzel', 'sans-serif';
 }
