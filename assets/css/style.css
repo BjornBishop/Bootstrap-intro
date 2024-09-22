@@ -6,3 +6,28 @@ body {
     padding-left: 15px;
     font-family: 'Cinzel', 'sans-serif';
 }
+
+.alert-container {
+
+}
+
+.callout-container {
+    height: 100vh;
+    min-width: 100%;
+    background: url(../images/whiskey-background2.jpg) no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.table-container {
+
+}
+.quotes-container {
+
+}
+
+.features-container {
+
+}
